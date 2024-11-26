@@ -1,4 +1,4 @@
-Here’s a comprehensive README for your GitHub repository:
+
 
 ---
 
@@ -63,7 +63,6 @@ This project allows users to input queries, get detailed solutions to mathematic
 ## 🖼️ App Preview
 
 ![App Screenshot](https://files.fm/f/yr55nj8769)  
-_Add screenshots of your app interface to make the repository more appealing._
 
 ---
 
@@ -113,4 +112,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize further! Let me know if you'd like me to generate an example `requirements.txt` or provide additional assets. 😊
